@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;-
+    background: blue ;}
+header img{
+    width: 200px;
+    height:90px;
+ }
+header{
+    background-color: green;
+    
+}
+ a :visited {
+    font-size: 20px;
+text-decoration: none;
+color: wheat;
+}
+ a {
+    text-decoration: none;
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+.hgeuih{
+    width: 900px;
+}
+img{
+    width: 900px;
+}
+p{
+    background-color: slategrey;
+    border: solid 3px red;
+
+}
+.tehh:hover{
+   font-size: 5px; 
+   color: red;
+   background-color: black;
+}
